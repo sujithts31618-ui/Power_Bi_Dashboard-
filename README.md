@@ -3,9 +3,12 @@
     
 
 
-## 📊 Download Power BI .pbix file
+## 📊 Power BI Report Download
 
-[Click here to download the Power BI report](India_vs_Australia.pbix)
+The report is provided in `.pbix` format and is designed to be opened using **Microsoft Power BI Desktop**.  
+Please ensure you have Power BI Desktop installed to view and interact with the dashboard.
+
+📎 [Download the Power BI Report – India vs Australia](India_vs_Australia.pbix)
 
 ## LinkedIn
 https://tinyurl.com/IndiaVsAustraliaDashboard
