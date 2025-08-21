@@ -3,7 +3,10 @@
     
 
 
-[Click here to download the Power BI Dashboard (cricket.pbix)](dashboard.pbix)
+## 📊 Download .pbix file and  is intended to be opened in [Power BI Desktop]
+
+[Click here to download the Power BI report](India_vs_Australia.pbix)
+
 
 ## Problem Statement
 
@@ -93,13 +96,9 @@ Above step enabled displaying player profile pictures inside Power BI dashboards
 ![Cover Image Snapshot](https://raw.githubusercontent.com/sujithts31618-ui/Power_Bi_Dashboard-/main/ask_2025-08-21_005101.png)
 
 
-## 👨‍💻 Author
-*Dashboard Created By:* Sujith TS 
+## 📊 Download .pbix file and  is intended to be opened in [Power BI Desktop]
 
-*Date:* 20th August 2025
-
-## 📂 Download .pbix 
-[Click here to download the Power BI Dashboard (cricket.pbix)](dashboard.pbix)
+[Click here to download the Power BI report](India_vs_Australia.pbix)
 
 🎥 [Watch the interactive video demo on LinkedIn] 
 ## Link : https://www.linkedin.com/posts/sujith-siddarth-514830208_powerbi-dashboarddesign-datavisualization-activity-7363264166435966981-7swN?utm_source=share&utm_medium=member_android&rcm=ACoAADTN1eABJYc0svIfomu6QfBYptguHuLDHic
@@ -109,3 +108,7 @@ All cricket statistics used in this dashboard have been sourced from
 [ESPN Cricinfo – Statsguru](https://stats.espncricinfo.com/)
 
 
+## 👨‍💻 Author
+*Dashboard Created By:* Sujith TS 
+
+*Date:* 20th August 2025
